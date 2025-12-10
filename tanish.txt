@@ -7,5 +7,15 @@ git branch -M main
 git remote add origin https://github.com/tanmaychavan14/tanishrepo.git
 git push -u origin main
 
+to create another branch => git branch branch_name  //  git switch  -c branch_name
+to save changes => git add . 
+                    git commit -m "first commit"
 
-do changes in main
+the push =>        git push -u origin branch_name
+
+to add in main => go to main => git switch main
+then merge =>                   git merge branch_name
+
+then push =>                    git push -u origin main
+
+if you want merge main in another branch same step branch name is main
