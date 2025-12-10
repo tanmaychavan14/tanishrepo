@@ -18,4 +18,4 @@ then merge =>                   git merge branch_name
 
 then push =>                    git push -u origin main
 
-if you want merge main in another branch same step branch name is main
+if you want merge main in another branch same step branch name is main all clear
