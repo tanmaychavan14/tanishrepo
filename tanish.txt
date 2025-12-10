@@ -19,3 +19,5 @@ then merge =>                   git merge branch_name
 then push =>                    git push -u origin main
 
 if you want merge main in another branch same step branch name is main all clear
+
+=> commit only for that files that i changes when i do git add . / git add tanish.txt only for one
